@@ -94,7 +94,7 @@ function App(): React.JSX.Element {
     //   </ScrollView>
     // </SafeAreaView>
     <View style={backgroundStyle}>
-      <Text style={{paddingTop:200}}>Test</Text>
+      <Text style={{paddingTop:200}}>Test1</Text>
     </View>
   );
 }
